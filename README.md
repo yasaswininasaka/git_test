@@ -1,4 +1,3 @@
 # git_test
 
-Hello!
-No idea on what's goinn
+Hello there! I'm Yasaswini
